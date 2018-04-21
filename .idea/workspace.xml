@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b3e6952-ecd1-4f06-bfa1-212b8a99fcfe" name="Default" comment="upload">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/17-apr.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/cd24b995-b9ae-44c7-b5e0-618e9ae32972.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Tim.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controller/Users.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controller/homeController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/core/Application.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/core/Controller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/core/View.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/db/DbConnection.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/modules/DB_Modules.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/view/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/view/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/view/home/aboutUs.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/view/home/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -57,7 +35,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/mvc_app" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$/mvc_app" value="app" />
@@ -282,12 +260,12 @@
       <workItem from="1523969626608" duration="9834000" />
       <workItem from="1524221900570" duration="27116000" />
       <workItem from="1524279295958" duration="1615000" />
-      <workItem from="1524281398046" duration="1369000" />
+      <workItem from="1524281398046" duration="1567000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39934000" />
+    <option name="totallyTimeSpent" value="40132000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
