@@ -18,13 +18,14 @@ echo '</pre>';
 define('ROOT', dirname(__DIR__) . DIRECTORY_SEPARATOR);
 define('APP', ROOT . 'app' . DIRECTORY_SEPARATOR);
 define('VIEW', ROOT . 'app' . DIRECTORY_SEPARATOR .'view'. DIRECTORY_SEPARATOR );
-define('MODULES', ROOT . 'app' . DIRECTORY_SEPARATOR .'modules'. DIRECTORY_SEPARATOR );
+define('MODEL', ROOT . 'app' . DIRECTORY_SEPARATOR .'model'. DIRECTORY_SEPARATOR );
+define('DATA', ROOT . 'app' .DIRECTORY_SEPARATOR .'data'. DIRECTORY_SEPARATOR);
 define('DB', ROOT . 'app' . DIRECTORY_SEPARATOR .'db'. DIRECTORY_SEPARATOR);
 define('CONTROLLER', ROOT . 'app' . DIRECTORY_SEPARATOR .'controller'. DIRECTORY_SEPARATOR);
 define('CORE', ROOT . 'app' . DIRECTORY_SEPARATOR .'core' .DIRECTORY_SEPARATOR);
 define('SETTINGS', ROOT . 'app' . DIRECTORY_SEPARATOR .'settings' .DIRECTORY_SEPARATOR);
 
-$modules = [ROOT, APP, CORE, CONTROLLER, DB, MODULES, VIEW, SETTINGS ];
+$modules = [ROOT, APP, CORE, CONTROLLER, DB, MODEL, VIEW, SETTINGS ];
 /**
  * PHP considers each entry in the include path separately when looking for files to include. It will check the first path, and if it doesn't find it, check the next path, until it either locates the included file or returns with a warning or an error.
 

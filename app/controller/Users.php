@@ -5,7 +5,7 @@
  * Date: 17/04/2018
  * Time: 19:56
  */
-require_once 'app/modules/DB_Modules.php';
+require_once 'app/model/DB_Modules.php';
 class Users extends DB_Modules
 {
     protected $userID;
